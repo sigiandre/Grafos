@@ -56,6 +56,7 @@ int main() {
 	cout << "Transversal DFS: vértice inicial 2 " << endl;
 	g.DFS(2);
 
+	cout << endl;
 	system("pause");
 	return 0;
 
